@@ -1,13 +1,3 @@
-<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
-**Table of Contents**
-
-- [Testing some javascript in 2017](#testing-some-javascript-in-2017)
-- [Setup](#setup)
-    - [Create your directory structure](#create-your-directory-structure)
-- [License](#license)
-
-<!-- markdown-toc end -->
-
 # Testing some javascript in 2017
 
 This is a repo that will handle giving a minimum example that meets
@@ -19,6 +9,16 @@ these modern javascript requirements used in many projects:
     - Can provide a build bundle, or a watch based build for dev
 
 Blog post to come soon!
+
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
+**Table of Contents**
+
+- [Testing some javascript in 2017](#testing-some-javascript-in-2017)
+- [Setup](#setup)
+    - [Create your directory structure](#create-your-directory-structure)
+- [License](#license)
+
+<!-- markdown-toc end -->
 
 # Setup
 
